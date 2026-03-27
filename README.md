@@ -61,6 +61,7 @@ Currently working at **Satalyst Pty Ltd (Canon Business Services ANZ)** — a Mi
 | [🔍 soc-portfolio](https://github.com/Rohit-Panchal/soc-portfolio) | Real-world SOC case studies, P1 incident write-ups, tabletop exercises, and lessons learned from 3 years in enterprise security |
 | [⚡ SentinelKQLToolKit](https://github.com/Rohit-Panchal/SentinelKQLTookKit) | A growing collection of KQL queries for Sentinel incident management, threat hunting, and detection tuning |
 | [🧰 SOC-Tools](https://github.com/Rohit-Panchal/SOC-Tools) | Chrome/Edge extension for streamlined IP analysis — integrates SPUR, geolocation, and VirusTotal for rapid SOC triage |
+| [🏢 SOC-Operations-Hub](https://github.com/Rohit-Panchal/SOC-Operations-Hub) | Microsoft 365 SOC knowledge base — centralised escalation templates, client tracking, monthly reports, and analyst scheduling using SharePoint, Teams & Planner |
 
 ---
 
